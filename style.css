@@ -19,7 +19,7 @@ h3 {
 
  @media (max-width: 2000px) {
   .container{
-    width: 700;
+    width: 1000px;
     margin: 10px auto;
     background-color: blue;
   }
